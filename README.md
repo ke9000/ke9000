@@ -1,16 +1,27 @@
-### Hi there 👋
+# About Me
+## Main Profile
+|key|value|
+|Name|ke9000|
+|Blog|(K-Nikki)[https://ke9000.hatenablog.com/]|
+|Twitter|(@ke_odakyu9000)[https://twitter.com/ke_odakyu9000]|
+|Qiita|https://qiita.com/ke9000
+|SlideShare|https://www2.slideshare.net/KSasaki1
 
-<!--
-**ke9000/ke9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Language-Skill (ONLY Experienced)
+- HTML, CSS
+- Javascript
+- PHP
+- MySQL, PostgreSQL
+- C, C++
+- Java
+- Python
 
-Here are some ideas to get you started:
+note: あくまで経験であり、まだまだ勉強中です
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other-Skill
+- Windows Client, Server
+- Linux (Ubuntu, Fedora)
+- AWS
+- Azure
+- Unity (C#)
+
