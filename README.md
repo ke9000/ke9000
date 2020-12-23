@@ -3,8 +3,8 @@
 |key|value|
 |:-:|:-:|
 |Name|ke9000|
-|Blog|(K-Nikki)[https://ke9000.hatenablog.com/]|
-|Twitter|(@ke_odakyu9000)[https://twitter.com/ke_odakyu9000]|
+|Blog|[K-Nikki](https://ke9000.hatenablog.com/)|
+|Twitter|[@ke_odakyu9000](https://twitter.com/ke_odakyu9000)|
 |Qiita|https://qiita.com/ke9000
 |SlideShare|https://www2.slideshare.net/KSasaki1
 
